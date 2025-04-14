@@ -1,8 +1,8 @@
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/serverdb
-    username: adover
-    password: 'adover134Adg!'
+    username: 
+    password: 
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   jpa:
