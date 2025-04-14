@@ -1,6 +1,8 @@
 Updated code from Youtube Class - Spring Boot and Angular Full Stack Development - with recent version of libraries
 
-This code used follows:
+The scope of this repository is backend part.
+
+This repository used follows:
 - Spring Boot 3.5.0 snapshot
 - Java 24
 
